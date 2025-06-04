@@ -1,0 +1,183 @@
+{
+  "homepage-first-right": "HANDMADE HOMEMADE DELICIOUSNESS",
+  "description": {
+    "h1": "FOR EVERY TASTE",
+    "p1": "choose from your favorite homemade treats",
+    "p2": "order online with delivery to your home",
+    "p3": "Promo code for 10% off",
+    "p4": "for every order over 100 BGN"
+  },
+  "search-result": {
+    "home-page-event": "Order all our products with a 20 percent discount!",
+    "h6": "Time until the end of the promotion",
+    "div": "For orders over 100 BGN, you receive a promo code for a 10% discount, which you can use on your next purchase."
+  },
+  "home-page-search": {
+    "h5": "Search product",
+    "option1": "Select a product",
+    "option2": "Pies",
+    "option3": "Sweets",
+    "option4": "Buns",
+    "option5": "Cakes",
+    "button": "Search",
+    "search-no-result": "Please select a category"
+  },
+  "home-page-most-ordered": {
+    "home-page-most-ordered-title": "BEST SELLING PRODUCTS!",
+    "home-page-most-ordered-description": "Order online with delivery to your address!"
+  },
+  "home-page-most-ordered-title-2": "RECOMMENDED PRODUCTS!",
+  "nav": {
+    "nav-logo": "MOM'S SWEET SHOP",
+    "nav-button-exit": "Logout",
+    "nav-button-entrance": "Login",
+    "nav-button-markets": "Shops",
+    "nav-button-products": "Products",
+    "nav-button-orders": "Orders"
+  },
+  "footer": {
+    "footer-first1": "ONLINE STORE",
+    "footer-first2": "COZUNATSI",
+    "footer-first3": "SWEETS",
+    "footer-first4": "BREADS",
+    "footer-first5": "CAKES",
+    "footer-first6": "PIES",
+    "footer-second1": "ABOUT US",
+    "footer-second2": "SHOP",
+    "footer-second3": "NEWS",
+    "footer-second4": "CAREERS",
+    "footer-second5": "CONTACTS",
+    "footer-second6": "PROGRAMS",
+    "footer-third1": "CONDITIONS",
+    "footer-third2": "TERMS OF ORDER AND DELIVERY",
+    "footer-third3": "METHOD OF PAYMENT",
+    "footer-third4": "GENERAL TERMS",
+    "footer-third5": "APPLICATION USES COOKIES",
+    "footer-third6": "PROMOTIONS",
+    "footer-four": "ABOUT THE APP AUTHOR"
+  },
+  "homepage-price": "Price:",
+  "homepage-currency": "BGN",
+  "search-result-close-button": "Close",
+  "product-details-selected-product-button": "Order",
+  "shop-art": {
+    "h1": "Welcome to Mama's Sweet Shop",
+    "h3": "Sofia"
+  },
+  "shops-view": {
+    "h3": "Your opinion is important to us",
+    "button": "Write your comment"
+  },
+  "products-users": {
+    "name": "Product:",
+    "price": "Price:",
+    "currency": "BGN",
+    "description": "Description:",
+    "no-like-button": "I do not like",
+    "like-button": "I like product",
+    "order-button": "Order",
+    "choice": "You chose:"
+  },
+  "orders-user": {
+    "title": "Your order",
+    "name": "Name:",
+    "close-product-button": "Remove the product",
+    "all-price": "Total price of the order:",
+    "confirm-button": "Confirm the order",
+    "h5": "If you have undelivered orders, you can track them here:",
+    "tracking-button": "Follow up",
+    "history-button": "History of your orders",
+    "discount": "Discount:",
+    "method-pay": "Choose a payment method",
+    "pay-delivery": "Payment on delivery",
+    "pay-card": "Payment by credit card",
+    "card-information": "Credit card information",
+    "card-*": "* This is a portfolio purpose app does not process real payments!",
+    "pay-confirm": "Confirm payment",
+    "description": "You have unused 10% discount codes, you can use them by entering it now!",
+    "promo-codes": "Your Promo Codes!",
+    "clipboard": "Copied to clipboard!"
+  },
+  "tracking-main-section": {
+    "data": "Date of delivery:",
+    "all-price": "Total cost:",
+    "process-order": "In process of preparation",
+    "process-delivery": "In process of delivery",
+    "time": "Expect your delivery around:",
+    "hour": "time"
+  },
+  "order-window": {
+    "finish": "You can complete your order from here:",
+    "finish-button": "Finished",
+    "tracking": "You can track the status of your delivery here:",
+    "tracking-button": "Follow up"
+  },
+  "user-profile": {
+    "username": "Username:",
+    "first-name": "First Name:",
+    "last-name": "Last Name:",
+    "email": "Email:",
+    "address": "Address:",
+    "phone-number": "Phone:",
+    "edit-button": "Edit profile"
+  },
+  "ordersUser": "Order history",
+  "author": {
+    "name": "Ivaylo Ivanov Alichkov",
+    "p1": "Hello! My name is Ivo and I am the author of the application Mama's Bakery. I'm in it\n                             used photos of the sweets she makes, as well as their recipes. Created by me\n                             application is intended to serve as a portfolio for me, as although the products presented in it\n                             to be real, when ordering from the app there will be no real delivery even though it\n                             tracks the various order/delivery cycles of the product.",
+    "p2": "A little information about me:\n                                 I have been studying software engineering for over a year, and the application you see is\n                                 my first serious project. Its full description can be found by following\n                                 the link to the Github repository:",
+    "p3": "In short, in the creation of\n                                 project I have used React for the front-end part and Spring for the back-end, the database is\n                                 MySQL. If you wish to contact me, you can find me at\n                                 footer-a e-mail or LinkedIn, as well as leave me a message in the comments section at\n                                 the application itself.",
+    "p4": "Regards,",
+    "p5": "Ivo",
+    "here": "Here"
+  },
+  "user-change-pass": {
+    "title": "Change password",
+    "label1": "Old password",
+    "label2": "New password",
+    "label3": "Confirm new password",
+    "button": "Change password"
+  },
+  "login": {
+    "fs-3": "Username",
+    "fs-4": "Password",
+    "login-button": "Login",
+    "register-button": "Registration",
+    "forgotten-password": "Forgotten password?",
+    "show-password": "Show password",
+    "hide-password": "Hide password",
+    "error": "Invalid username or password"
+  },
+  "user-forgotten-password": {
+    "h1": "Password recovery",
+    "label": "Enter your Email",
+    "button": "Send",
+    "h1-pass": "Generate a new password",
+    "new-password": "New password",
+    "confirm-new-password": "Confirm the new password",
+    "button-new-password": "Send"
+  },
+  "register": {
+    "h1": "Registration",
+    "username": "Username",
+    "password": "Password",
+    "confirm-password": "Repeat password",
+    "name": "First Name",
+    "last-name": "Last Name",
+    "email": "Email",
+    "address": "Address",
+    "phone-number": "Phone number",
+    "button": "Registration"
+  },
+  "chat-container": {
+    "h3": "Write us",
+    "p": "Hello, if you need assistance please write to us!",
+    "button": "Send",
+    "placeholder": "Write a message"
+  },
+  "search-result-close-button-chat": "Close",
+  "empty-chat": "Hi, if you need any assistance, please write to us!",
+  "chat-closed": "Write us",
+  "no-orders-processing": "You do not have an order in progress",
+  "no-orders-delivery": "You do not have an order in the process of delivery"
+}
